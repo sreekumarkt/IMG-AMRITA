@@ -21,7 +21,7 @@ Each audio recording is converted into a mel-spectrogram image, which provides a
 
 The dataset contains samples from the following Indian music genres:
 
-1. Aul
+1. Baul
 2. Bihu
 3. Carnatic
 4. Cinematic
